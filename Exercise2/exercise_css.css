@@ -8,11 +8,11 @@ body{
 }
 
 #header{
-	background-color: #b2e7ff;
-	font-size: 24px;
-	color:black;
-	text-align: center;
-	border-bottom: 2px solid #0ab1ff;
+  background-color: #b2e7ff;
+  font-size: 24px;
+  color:black;
+  text-align: center;
+  border-bottom: 2px solid #0ab1ff;
   padding:20px 0px;
 }
 
@@ -27,8 +27,8 @@ body{
 
 #navigation{
   display: table-cell;
-	background-color: #0ab1ff;
-	padding: 25px 10px;
+  background-color: #0ab1ff;
+  padding: 25px 10px;
   width:230px;
 }
 
