@@ -67,9 +67,9 @@
 }
 
 #form-box #male,#form-box #female{
-	vertical-align: middle;
-	margin: 0px 3px;
-	width: auto;
+  vertical-align: middle;
+  margin: 0px 3px;
+  width: auto;
 }
 
 #form-box #submit{
